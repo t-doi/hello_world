@@ -1,1 +1,0 @@
-c:\cygwin64\cygwin2.bat
